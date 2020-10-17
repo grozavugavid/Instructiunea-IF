@@ -1,0 +1,6 @@
+a=int(input("Introduceti primul numar:",a))
+b=int(input("Introduceti al doilea numar:",b))
+c=int(input("Introduceti al treilea numar:",c))
+if (a<b+c) and (b<a+c) and (c<a+b)
+   print("DA")
+else print("NU")
